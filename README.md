@@ -32,9 +32,12 @@ Stop bot with Ctrl + C.
 
 **TIPS AND TRICKS**
 
-1. Have atleast few sonala's in funds, as you will need to get some fees, currencies and for the sniping itself. Also, to get everything working smooth as some tokens you will want to snipe have big slippage and if the transaction fails you still pay the gas so don't waste money
-2. Check new tokens on dextools
-3. DYOR on dextools and see if the token contract you are sniping doesn't have rug pulls included
+1. If you gettint error: throw new Error('Non-base' + BASE + ' character')
+   ^
+   Error: Non-base58 character. Make sure you have provided correct private key in line 34.
+2. Have atleast few sonala's in funds, as you will need to get some fees, currencies and for the sniping itself. Also, to get everything working smooth as some tokens you will want to snipe have big slippage and if the transaction fails you still pay the gas so don't waste money
+3. Check new tokens on dextools
+4. DYOR on dextools and see if the token contract you are sniping doesn't have rug pulls included
 
 **WARNING**
 This bot is free and I did it as a hobby project. Great starting place for new devs. DYOR.
